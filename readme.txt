@@ -17,7 +17,8 @@ The user must have
 (arosicsWV3)>conda install -c conda-forge arosics
 (arosicsWV3)>conda install -c conda-forge descartes
 (arosicsWV3)>conda install -c conda-forge jupyterlab
- (arosicsWV3)>conda install -c conda-forge earthengine-api
+(arosicsWV3)>conda install -c conda-forge opencv
+(arosicsWV3)>conda install -c conda-forge earthengine-api
  
 4.  For execution, start anaconda and initiate a jupyter lab environment in a web browser
  
