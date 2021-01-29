@@ -4,7 +4,7 @@ The MSI image is taken from a Google Drive and brought to a local synchronized g
 The output corresponds to a registered version of the WV3 image in the local drive.
 
 The user must have
-1.  A Google Drive synchronized to the local drive.
+1.  A Google Drive synchronized to the local drive.  Make sure the local drive does not have spaces in the name.
 2.  A Google Earth Engine account associated with the Google Drive.
 3.  An anaconda environment configured as follows for the first instance:
 
