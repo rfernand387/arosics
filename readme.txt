@@ -34,4 +34,4 @@ The user must have
 
 7.  Change the first notbook cell with a selection of either Global or Local registration.  
 
-8.  Run the notebook.  You will have to enter your Google Earth Engine authentication code into cell xx when requested.
+8.  Run the notebook.  You will have to enter your Google Earth Engine authentication code into cell 4 when requested.
