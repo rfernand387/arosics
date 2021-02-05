@@ -8,17 +8,16 @@ The user must have
 2.  A Google Earth Engine account associated with the Google Drive.
 3.  An anaconda environment configured as follows for the first instance:
 
-(base)>conda create arosicsWV3
-(base)>conda activate arosicsWV3
-(arosicsWV3)>conda install -c conda-forge rasterio
-(arosicsWV3)>conda install -c conda-forge geopandas
-(arosicsWV3)>conda install -c conda-forge folium
-(arosicsWV3)>conda install -c conda-forge geoarray
-(arosicsWV3)>conda install -c conda-forge arosics
-(arosicsWV3)>conda install -c conda-forge descartes
-(arosicsWV3)>conda install -c conda-forge jupyterlab
-(arosicsWV3)>conda install -c conda-forge opencv
-(arosicsWV3)>conda install -c conda-forge earthengine-api
+(base)>conda create --name arosicsWV3
+conda activate arosicsWV3
+(arosicsWV3)>conda install -c conda-forge rasterio -y
+(arosicsWV3)>conda install -c conda-forge geopandas -y
+(arosicsWV3)>conda install -c conda-forge folium -y
+(arosicsWV3)>conda install -c conda-forge geoarray -y
+(arosicsWV3)>conda install -c conda-forge arosics -y
+(arosicsWV3)>conda install -c conda-forge descartes -y
+(arosicsWV3)>conda install -c conda-forge jupyterlab -y
+(arosicsWV3)>conda install -c conda-forge earthengine-api -y
  
 4.  For execution, start anaconda and initiate a jupyter lab environment in a web browser
  
